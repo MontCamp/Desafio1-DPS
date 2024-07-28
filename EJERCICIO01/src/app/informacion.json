@@ -1,0 +1,64 @@
+
+[
+    {
+      "id": 0,
+      "nombre": "Blade Runner",
+      "precio": 9.99,
+      "cantidad": 1
+    },
+    {
+      "id": 1,
+      "nombre": "Dune",
+      "precio": 14.99,
+      "cantidad": 1
+    },
+    {
+      "id": 2,
+      "nombre": "Inception",
+      "precio": 12.99,
+      "cantidad": 1
+    },
+    {
+      "id": 3,
+      "nombre": "The Matrix",
+      "precio": 11.99,
+      "cantidad": 1
+    },
+    {
+      "id": 4,
+      "nombre": "Interstellar",
+      "precio": 13.99,
+      "cantidad": 1
+    },
+    {
+      "id": 5,
+      "nombre": "2001: A Space Odyssey",
+      "precio": 15.99,
+      "cantidad": 1
+    },
+    {
+      "id": 6,
+      "nombre": "The Terminator",
+      "precio": 10.99,
+      "cantidad": 1
+    },
+    {
+      "id": 7,
+      "nombre": "E.T. the Extra-Terrestrial",
+      "precio": 8.99,
+      "cantidad": 1
+    },
+    {
+      "id": 8,
+      "nombre": "Star Wars: A New Hope",
+      "precio": 18.99,
+      "cantidad": 1
+    },
+    {
+      "id": 9,
+      "nombre": "Arrival",
+      "precio": 12.49,
+      "cantidad": 1
+    }
+
+]

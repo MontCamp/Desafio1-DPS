@@ -1,0 +1,96 @@
+{
+    "data":[
+        {
+          "id": 1,
+          "name": "Yoga Mat",
+          "category": "Yoga and Pilates",
+          "description": "Anti-slip yoga mat ideal for yoga and pilates sessions.",
+          "price": 35.00,
+          "urlImage": "https://target.scene7.com/is/image/Target/GUEST_1d93dbc6-91a7-4e4c-906f-012f420a1d27?wid=1200&hei=1200&qlt=80&fmt=webp",
+          "quantity": 1
+        },
+        {
+          "id": 2,
+          "name": "Yoga Blocks",
+          "category": "Yoga and Pilates",
+          "description": "Foam yoga blocks to assist with poses for better comfort",
+          "price": 35.00,
+          "urlImage": "https://thehappypine.com/wp-content/uploads/2019/11/DSC1577-1-zolty-1.jpg",
+          "quantity": 1
+        },
+        {
+          "id": 3,
+          "name": "Football Ball",
+          "category": "Football",
+          "description": "Professional design football with durability.",
+          "price": 30.00,
+          "urlImage": "https://cdn.superstore.ge/2023/11/389374-1.webp",
+          "quantity": 1
+        },
+        {
+          "id": 4,
+          "name": "Football Shoes",
+          "category": "Football",
+          "description": "Shoes designed for performance on football fields.",
+          "price": 30.00,
+          "urlImage": "https://i.ebayimg.com/images/g/FV0AAOSw~b9hCRkV/s-l1600.webp",
+          "quantity": 1
+        },
+        {
+          "id": 5,
+          "name": "Sports Backpack",
+          "category": "Sports Backpacks",
+          "description": "Backpack with compartments for sports gear",
+          "price": 50.00,
+          "urlImage": "https://www.kiids.shop/cdn/shop/files/4057081160112_R00.jpg?v=1721201482&width=1100",
+          "quantity": 1
+        },
+        {
+          "id": 6,
+          "name": "Cycling Backpack",
+          "category": "Sports Backpacks",
+          "description": "Water-resistant backpack designed for cyclists.",
+          "price": 50.00,
+          "urlImage": "https://m.media-amazon.com/images/I/614begOxANL._SL1200_.jpg",
+          "quantity": 1
+        },
+        {
+          "id": 7,
+          "name": "Cycling Helmet",
+          "category": "Cycling",
+          "description": "Cycling helmet with enhanced ventilation and secure fit.",
+          "price": 25.00,
+          "urlImage": "https://www.atenxsports.com/wp-content/uploads/2021/04/Sigma-Aerodynamic-Cycling-Helmet-3.jpg",
+          "quantity": 1
+        },
+        {
+          "id": 8,
+          "name": "Cycling Gloves",
+          "category": "Cycling",
+          "description": "Cycling gloves with padding for extra comfort",
+          "price": 25.00,
+          "urlImage": "https://shop.globalcyclingnetwork.com/cdn/shop/files/GCN-S-203-AGUP-BK-WHSTRETCH002.png?v=1705330570",
+          "quantity": 1
+        },
+        {
+          "id": 9,
+          "name": "Boxing Gloves",
+          "category": "Boxing",
+          "description": "Boxing gloves with padding for better protection.",
+          "price": 20.00,
+          "urlImage": "https://sfycdn.speedsize.com/fbaf6506-81e1-43a2-bcc1-80e18c7b0146/https://uk.representclo.com/cdn/shop/files/AvEtYOL97ERg17eVWWzx0FaZsYTq5mROpA1z4nJCGt0.jpg?v=1715789720&width=1920",
+          "quantity": 1
+        },
+        {
+          "id": 10,
+          "name": "Boxing Bag",
+          "category": "Boxing",
+          "description": "Durable boxing bag with high resistance material.",
+          "price": 20.00,
+          "urlImage": "https://www.barbariansfightwear.com/2445-large_default/leone-1947-heavy-bag-king-size-60kg-white-red.jpg",
+          "quantity": 1
+        }
+      ]
+        
+}
+    
